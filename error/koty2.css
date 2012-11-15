@@ -1,0 +1,11 @@
+@charset "utf-8";
+body
+{
+  background-color: black;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -375px;
+  margin-left: -300px;
+}
+
